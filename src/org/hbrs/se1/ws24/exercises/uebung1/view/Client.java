@@ -12,7 +12,7 @@ public class Client {
 			// mit dem übergegebenen Wert der Variable aNumber
 			// aufgerufen werden.
 			//
-			// Strenge Implementierung gegen das Interface Translator gewuenscht!
+			// Strenge Implementierung (nur) gegen das Interface Translator gewuenscht!
 
 			 System.out.println("Das Ergebnis der Berechnung: " +
 					"[das Ergebnis an dieser Stelle]" );

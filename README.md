@@ -1,4 +1,4 @@
-## GitHub-Seite der Veranstaltung SE-1 (Prof. Alda)
+## GitHub-Seite der Veranstaltung SE-1 (Code-Repository)
 
 Auf dieser GitHub-Seite finden sie die Source-Codes aus den Übungen sowie Demo-Codes aus den Vorlesungen. Sie finden hier zudem einige nützliche Links für die Übungen.
 Die Seite ist noch im Aufbau und wird kontinuierlich überarbeitet.
@@ -17,6 +17,11 @@ Hinweis: Diese Videos basieren auf einer etwas älteren Version von IntelliJ. Di
 
 [Teil 4: Pull von Änderungen bzw. von neuen Codes aus einem GitHub-Repository ](https://www.youtube.com/watch?v=I4L0k33TNQ4)
 
+### Literatur zu Software Engineering
+Eine Sammlung von Quellen und Ressourcen finden Sie auf den Literatur-Repro: <br>
+https://github.com/aldaGit/se-repository
+
+Auf diesem Repository finden Sie viele nützliche Links, Publikationen und Hinweise rund um meine Vorlesungsreihe Software Engineering. Diese Quellen-Sammlung wird kontinuierlich und semesterübergreifend von mir gepflegt. Die aktuellen Folien zu der Vorlesung im aktuellen Semester finden Sie auf dem LEA-Kurs der jeweiligen Veranstaltung.
 
 
 ### Links zu hilfreichen Tools:
