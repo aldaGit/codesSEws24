@@ -18,7 +18,7 @@ public class DocumentManager {
 		}
 	}
 	
-	private void saveDocument( Document data ) {
+	public void saveDocument( Document data ) {
 		// Save to DB-Disk without check (should be ensured before!)
 	}
 	
